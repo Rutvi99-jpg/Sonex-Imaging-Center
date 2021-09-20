@@ -1,0 +1,14 @@
+img{
+	margin:20px;
+}
+li{
+	
+	list-style: none;
+	display:inline-block;
+	font-size:120%;
+	text-align: right;
+}
+body{
+	background-image: url(wp2919299.jpg);
+	background-size: cover;
+	}

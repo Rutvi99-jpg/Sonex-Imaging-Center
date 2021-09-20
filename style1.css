@@ -1,0 +1,41 @@
+li{
+	
+	list-style: none;
+	display:inline-block;
+	font-size:120%;
+	text-align: right;
+
+}
+button{
+	background-color: cyan;
+}
+
+h1{
+	text-align: center;
+	font-size:200%;
+	font-family: Showcard Gothic;
+	color:rgb(200,180,130);
+}
+
+body{
+	background-image: url(wp2919299.jpg);
+	background-size: cover;
+	}
+	div.image{
+		left:25px;
+	}
+
+img{
+	align-content: middle;
+   }
+
+h2{
+	font-size:130%;
+	font-family: Bradley Hand ITC;
+    text-align: center;
+}  
+h3{
+border-bottom:1px;
+width:250px;
+color:purple;
+}
